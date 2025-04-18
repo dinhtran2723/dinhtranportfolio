@@ -1,4 +1,4 @@
-/* Lesson 3: Using Joins and Unions
+/* Lesson 3: Introduction to Joins and Unions
 
 Main Agenda:
     - Using Logical Statement
